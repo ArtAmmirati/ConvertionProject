@@ -65,7 +65,7 @@ namespace DecToRom
 
                 if (outputLabel.Text.Contains(a) == true && outputLabel.Text.Contains(b) == true)
                 {
-                    MessageBox.Show("Not in range");
+                    MessageBox.Show("INPUT NOT IN RANGE SPECIFIED");
                 }
                
             }

@@ -18,3 +18,13 @@ C:\Users\Cyberadmin\Desktop\one-button-convert-to-roman\DecToRom\DecToRom\obj\De
 C:\Users\Cyberadmin\Desktop\one-button-convert-to-roman\DecToRom\DecToRom\obj\Debug\DecToRom.csproj.CoreCompileInputs.cache
 C:\Users\Cyberadmin\Desktop\one-button-convert-to-roman\DecToRom\DecToRom\obj\Debug\DecToRom.exe
 C:\Users\Cyberadmin\Desktop\one-button-convert-to-roman\DecToRom\DecToRom\obj\Debug\DecToRom.pdb
+C:\Users\Cyberadmin\Desktop\ConvertionProject\DecToRom\DecToRom\bin\Debug\DecToRom.exe.config
+C:\Users\Cyberadmin\Desktop\ConvertionProject\DecToRom\DecToRom\bin\Debug\DecToRom.exe
+C:\Users\Cyberadmin\Desktop\ConvertionProject\DecToRom\DecToRom\bin\Debug\DecToRom.pdb
+C:\Users\Cyberadmin\Desktop\ConvertionProject\DecToRom\DecToRom\obj\Debug\DecToRom.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Desktop\ConvertionProject\DecToRom\DecToRom\obj\Debug\DecToRom.DecToRom.resources
+C:\Users\Cyberadmin\Desktop\ConvertionProject\DecToRom\DecToRom\obj\Debug\DecToRom.Properties.Resources.resources
+C:\Users\Cyberadmin\Desktop\ConvertionProject\DecToRom\DecToRom\obj\Debug\DecToRom.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Desktop\ConvertionProject\DecToRom\DecToRom\obj\Debug\DecToRom.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Desktop\ConvertionProject\DecToRom\DecToRom\obj\Debug\DecToRom.exe
+C:\Users\Cyberadmin\Desktop\ConvertionProject\DecToRom\DecToRom\obj\Debug\DecToRom.pdb
