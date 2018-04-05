@@ -37,6 +37,7 @@
             this.exitBTN = new System.Windows.Forms.Button();
             this.inputTextBox = new System.Windows.Forms.TextBox();
             this.outputLabel = new System.Windows.Forms.Label();
+            this.clearBTN = new System.Windows.Forms.Button();
             this.decToRomGroupBox.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -106,7 +107,7 @@
             // 
             // exitBTN
             // 
-            this.exitBTN.Location = new System.Drawing.Point(190, 324);
+            this.exitBTN.Location = new System.Drawing.Point(210, 324);
             this.exitBTN.Name = "exitBTN";
             this.exitBTN.Size = new System.Drawing.Size(75, 23);
             this.exitBTN.TabIndex = 6;
@@ -132,11 +133,22 @@
             this.outputLabel.TabIndex = 8;
             this.outputLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
+            // clearBTN
+            // 
+            this.clearBTN.Location = new System.Drawing.Point(121, 324);
+            this.clearBTN.Name = "clearBTN";
+            this.clearBTN.Size = new System.Drawing.Size(75, 23);
+            this.clearBTN.TabIndex = 9;
+            this.clearBTN.Text = "Clear\r\n\r\n";
+            this.clearBTN.UseVisualStyleBackColor = true;
+            this.clearBTN.Click += new System.EventHandler(this.clearBTN_Click);
+            // 
             // DecToRom
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(319, 381);
+            this.Controls.Add(this.clearBTN);
             this.Controls.Add(this.outputLabel);
             this.Controls.Add(this.inputTextBox);
             this.Controls.Add(this.exitBTN);
@@ -164,6 +176,7 @@
         private System.Windows.Forms.Button exitBTN;
         private System.Windows.Forms.TextBox inputTextBox;
         private System.Windows.Forms.Label outputLabel;
+        private System.Windows.Forms.Button clearBTN;
     }
 }
 

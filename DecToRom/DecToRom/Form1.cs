@@ -79,5 +79,11 @@ namespace DecToRom
         {
             this.Close();
         }
+
+        private void clearBTN_Click(object sender, EventArgs e)
+        {
+            inputTextBox.Text = "";
+            outputLabel.Text = "";
+        }
     }
 }
